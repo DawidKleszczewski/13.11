@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+}
+.nav1{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nava{
+    color: lightgreen;
+}
+.div0{
+    height: 60px;
+    text-align: left;
+}
+.div1{
+    height: 60px;
+    text-align: right;
+}
+.div2{
+    background-image: url(./img/background.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+#paus{
+    height: 60%;
+}
+#text{
+    background-color: rgba(56, 53, 53, 0.541);
+    height: 36.5%;
+    text-align: center;
+    font-size: 25px;
+}
+#div-main{
+    background-color: lightgray;
+}
+#zdj1{
+    width: 160px;
+    height: 110px;
+}
+.grid-main{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    text-align: center;
+}
+.grid-item{
+    height: 400px;
+    font-size: 100px;
+}
+#pause{
+    height: 30px;
+}
+.it1{
+    background-color: lime;
+}
+.it2{
+    background-color: cyan;
+}
+p{
+    font-size: 50px;
+}
+.grid-main2{
+    display: grid;
+    text-align: center;
+    border: black solid 1px;
+    grid-template-columns: 50% 25% 25%;
+}
+.grid-item2{
+    border: black solid 1px;
+    height: 250px;
+}
+#img1{
+    height: 100%;
+    width: 100%;
+}
+.footer{
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    color: white;
+    display: grid;
+    background-color: rgb(15, 15, 15);
+    height: 100px;
+}
+#zielony{
+    color: greenyellow;
+}
+#ico{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
